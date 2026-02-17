@@ -4,6 +4,6 @@ verify_ssl = true
 name = "pypi"
 
 [packages]
-requests = "==2.31.0"
+requests = "==2.32.4"
 
 [dev-packages]
